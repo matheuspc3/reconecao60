@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import py_compile, sys; files=['config.py','utils/sanitize.py','analysis/patterns.py','analysis/classifier.py','content/topics.py','content/responses.py','handlers/start.py','handlers/menu.py','handlers/topics.py','handlers/analyze.py','handlers/fallback.py','bot.py']; errors=[f for f in files if not py_compile.compile\\(f, doraise=True\\)]; [print\\('OK:',f\\) for f in files if f not in errors]; [print\\('FAIL:',f\\) for f in errors]; sys.exit\\(len\\(errors\\)\\)\")",
+      "Bash(iconv -f utf-8 -t utf-8)",
+      "Bash(TELEGRAM_BOT_TOKEN=test_token python -c ' *)"
+    ]
+  }
+}
