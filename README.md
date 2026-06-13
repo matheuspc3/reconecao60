@@ -17,7 +17,7 @@ O reconecao60 ensina pessoas idosas a se protegerem de golpes digitais, ajudando
 - Ligações suspeitas e golpes por SMS
 - E muito mais
 
-A interação é **conversacional**: o usuário digita sua dúvida com palavras naturais e o bot entende e responde com conteúdo educativo.
+A interação é **conversacional**: o usuário digita sua dúvida com palavras naturais e o bot entende e responde com conteúdo educativo!
 
 ```
 Usuário: "meu filho pediu dinheiro por mensagem, o que eu faço?"
